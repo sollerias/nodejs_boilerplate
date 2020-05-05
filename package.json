@@ -20,17 +20,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://atlas.accidentlaw.ru:7990/projects"
+    "url": "git+https://github.com/sollerias/nodejs_boilerplate"
   },
   "author": "Gleb Tregubov",
   "license": "ISC",
   "bugs": {
-    "url": "http://atlas.accidentlaw.ru:7990/projects/issues"
+    "url": "https://github.com/sollerias/nodejs_boilerplate/issues"
   },
   "jest": {
     "testEnvironment": "node"
   },
-  "homepage": "https://",
+  "homepage": "https://github.com/sollerias/nodejs_boilerplate",
   "dependencies": {
     "lodash": "^4.17.15"
   },
