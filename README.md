@@ -1,4 +1,4 @@
-This repository is created and maintained by me. [Read more about Balt Assistans (in Russian)](https://travelfrog.ru/contact/o-kompanii-balt-assistance-ltd/).
+This repository is created and maintained by me. [Read more about this (in Russian)](https://this.com/).
 ##
 # nodejs-package
 
